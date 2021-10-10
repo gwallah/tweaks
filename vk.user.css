@@ -5,7 +5,7 @@
 @description    ?
 @author         vk.com/aerry
 @homepageURL    https://github.com/gwallah/tweaks
-@updateURL      https://raw.githubusercontent.com/evtn/vk-tweaks/lord/vk.user.css
+@updateURL      https://github.com/gwallah/tweaks/raw/main/vk.user.css
 @var select ads "убрать рекламу слева" {"да*": "none", "нет": "block"}
 @var select combo "убрать пункт VK Combo из меню" {"да*": "none", "нет": "block"}
 @var select stories "показывать истории в новостях" {"да*": "block", "нет": "none"}
